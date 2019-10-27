@@ -1,9 +1,6 @@
 '''
 animations.py - handles all the games animation functions
                 and allows for graphics to be displayed
-
-Josh Schiavone
-
 '''
 
 from core.config import *
