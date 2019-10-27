@@ -1,0 +1,4 @@
+https://youtu.be/0S5dBgZQw2A
+https://github.com/carterjean/Flappy-Bird-in-Pygame
+https://github.com/deadbok/ann-flappy-bird-pygame
+https://www.pygame.org/docs/
