@@ -1,7 +1,5 @@
 '''
 fgame.py - handles all the universal program variables
-
-Josh Schiavone
 '''
 from core.config import *
 
