@@ -2,8 +2,6 @@
 physics.py - handles all the game physics
            - ie. movements, forces, velocity etc.
 
-Josh Schiavone
-
 '''
 
 from core.config import *
