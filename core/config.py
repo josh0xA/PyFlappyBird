@@ -1,8 +1,6 @@
 '''
 config.py - all the universal debugging variables
           - handles OS functions
-
-Josh Schiavone
 '''
 
 from itertools import cycle
